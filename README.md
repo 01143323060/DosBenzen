@@ -18,4 +18,3 @@ It includes sections like **Home, Product Listings, About Us, Contact, Booking, 
 - **JavaScript (Vanilla JS)** for interactivity  
 - GitHub Pages & Live Server  
 
-## 📂 Project Structure
