@@ -1,20 +1,4 @@
-# 🚗 DosBenzen - Car Dealership Website
-
-A fully responsive multi-page car dealership website built with **HTML, CSS, and JavaScript**.  
-It includes sections like **Home, Product Listings, About Us, Contact, Booking, Membership Plans**, and more.  
-
-## 🌟 Features
-- Modern, clean navigation bar and footer.
-- **About Us** page with company values, history, and photo grid.
-- **Why Choose Us?** section with highlights of services.
-- **Statistics** and **Customer Reviews** with testimonials.
-- **Membership Plans** section for pricing tiers.
-- Integrated **newsletter signup** form.
-- Social media links and download buttons for app stores.
-
-## 🛠️ Technologies Used
-- **HTML5** for structure  
-- **CSS3** for styling (Google Fonts, Font Awesome icons included)  
-- **JavaScript (Vanilla JS)** for interactivity  
-- GitHub Pages & Live Server  
-
+# IT-PROJECT-FINAL
+this is our IT Team project which we will deliver to the instructor
+🙏 Special Thanks
+A huge thank you to my amazing team for your hard work, dedication, and teamwork throughout this project. Every line of code, every idea, and every late-night debug session made this a success. I’m proud of what we’ve accomplished together. Let’s keep building great things! 💪🚀
