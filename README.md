@@ -16,6 +16,6 @@ It includes sections like **Home, Product Listings, About Us, Contact, Booking, 
 - **HTML5** for structure  
 - **CSS3** for styling (Google Fonts, Font Awesome icons included)  
 - **JavaScript (Vanilla JS)** for interactivity  
-- Responsive design tested with GitHub Pages & Live Server  
+- GitHub Pages & Live Server  
 
 ## 📂 Project Structure
