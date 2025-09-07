@@ -4,7 +4,7 @@ A fully responsive multi-page car dealership website built with **HTML, CSS, and
 It includes sections like **Home, Product Listings, About Us, Contact, Booking, Membership Plans**, and more.  
 
 ## 🌟 Features
-- Modern, responsive UI with clean navigation bar and footer.
+- Modern, clean navigation bar and footer.
 - **About Us** page with company values, history, and photo grid.
 - **Why Choose Us?** section with highlights of services.
 - **Statistics** and **Customer Reviews** with testimonials.
